@@ -18,8 +18,7 @@ assignees: ''
 5. EVIDENCIAS, conjunto de imagenes o videos que complementan la información dada en el reporte.
 
 6. CONTEXTO, en esta sección se debe detallar el contexto en el que fue ejecutado el escenario de prueba.
-    * Versión de la app.
-    * Sistema operativo. Windows XX, Mac XX, Ubuntu XX
-    * Browser ( nombre y versión ): [all | Chrome XX | Firefox XX | IE XX | Safari XX | Mobile Chrome XX |  Android X.X Web Browser | iOS XX Safari | iOS XX UIWebView | iOS XX  WKWebView ]
+Aplicación web: Ghost v5.69.1
+Máquina en la que se encontró el fallo: Safari Version 16.6 (18615.3.12.11.2). Pruebas realizadas en MacBook Pro Apple M1 16GB macOS Ventura 13.6
 
 7. INFORMACIÓN ADICIONAL, datos adicionales a los que se tenga acceso respecto al defecto. Por ejemplo, trazas de error, defecto similares ya reportados, posible solución, posible implementación de la solución, links a recursos externos que brinden más información: stackoverflow, gitter, etc.
